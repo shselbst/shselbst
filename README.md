@@ -3,9 +3,14 @@
         Hello! I'm <span style="color:d2f8d2;">Shawn Selbst</span>! 👋
     </h1>
     <h2>
-         I'm a  <span style="color:darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and protecting our privacy!
+         I'm a  <span style="color:darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and privacy enforcement!
     </h2>
 </div>
+
+# Hello! I'm <span style="color: #d2f8d2;">Shawn Selbst</span>! 👋
+
+I'm a <span style="color: darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and privacy enforcement!
+
 
 
 
