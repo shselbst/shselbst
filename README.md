@@ -1,7 +1,7 @@
 <div align="center">
     <h1>
         Hello! I'm <span style="color:d2f8d2;">Shawn Selbst</span>! 👋
-        I'm a  <span style="color:darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and protecting our privacy!
+        /n I'm a  <span style="color:darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and protecting our privacy!
     </h1>
 </div>
 
