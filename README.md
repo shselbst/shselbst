@@ -1,6 +1,6 @@
 # Hello! I'm <span style="color: #d2f8d2;">Shawn Selbst</span>! 👋
 
-I'm a <span style="color: darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and privacy enforcement!
+I'm a computer science student at Dartmouth with a focus on <span style="color: darkblue;">cybersecurity</span> and a passion for innovative risk mitigation techniques and privacy enforcement!
 
 
 
