@@ -1,4 +1,22 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-image: url('unnamed (2).jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.8); /* Optional: Adding a semi-transparent white background to the content */
+    }
+  </style>
+</head>
+<body>
 
 # Hello! I'm <span style="color: #d2f8d2;">Shawn Selbst</span>! 👋
 
