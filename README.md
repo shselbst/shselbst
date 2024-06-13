@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-## I'm a  <span style="color:darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and protecting our privacy!
+### I'm a  <span style="color:darkblue;">cybersecurity</span> enthusiast with a passion for innovative risk mitigation techniques and protecting our privacy!
 
 
 ## Find me on LinkedIn!
