@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        Hello! I'm <span style="color:green;">Shawn Selbst</span>! 👋
+        Hello! I'm <span style="color:d2f8d2;">Shawn Selbst</span>! 👋
     </h1>
 </div>
 
