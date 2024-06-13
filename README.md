@@ -1,4 +1,4 @@
-# Hello! I'm <span style="color:green;">Shawn Selbst</span>! 👋
+<h1>Hello! I'm <span style="color:green;">Shawn Selbst</span>! 👋</h1>
 
 ## Find me on LinkedIn!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-selbst-1a0216227)
