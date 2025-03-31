@@ -1,8 +1,6 @@
 # Hello! I'm <span style="color: #d2f8d2;">Shawn Selbst</span>! 👋
 
-I'm a computer science student at Dartmouth with a focus on <span style="color: darkblue;">cybersecurity</span> and a passion for innovative risk mitigation techniques and privacy enforcement!
-
-
+I'm a computer science student at Dartmouth with a focus on <span style="color: darkblue;">cybersecurity</span> 
 
 
 
@@ -12,5 +10,7 @@ I'm a computer science student at Dartmouth with a focus on <span style="color: 
 
 ## Stats 
 ### I'm working on transferring old projects to this account!
+<!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shselbst&show_icons=true&theme=merko)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shselbst&layout=compact&theme=merko)
+--> 
