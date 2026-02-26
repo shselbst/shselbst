@@ -1,4 +1,4 @@
-# Hello! I'm <span style="color: #d2f8d2;">Shawn Selbst</span>! 👋
+# Hello! I'm <span style="color: #d2f8d2;">Shawn Selbst</span>! 
 
 I'm a computer science student at Dartmouth with a focus on <span style="color: darkblue;">cybersecurity</span> 
 
